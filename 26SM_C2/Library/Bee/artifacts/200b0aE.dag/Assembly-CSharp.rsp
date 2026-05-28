@@ -458,6 +458,7 @@
 "Assets/Ian/Scripts/MovementDemo_Class04.cs"
 "Assets/Ian/Scripts/Movement_Test.cs"
 "Assets/Ian/Scripts/PlayMusic_Level01.cs"
+"Assets/Ian/Scripts/Trigger.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
