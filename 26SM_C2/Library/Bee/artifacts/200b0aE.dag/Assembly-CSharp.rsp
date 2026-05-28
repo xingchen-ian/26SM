@@ -455,6 +455,8 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.3.6f1/Unity.app/Contents/Resources/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Ian/Scripts/IanSecondName.cs"
 "Assets/Ian/Scripts/LightControl.cs"
+"Assets/Ian/Scripts/MovementDemo_Class04.cs"
+"Assets/Ian/Scripts/Movement_Test.cs"
 "Assets/Ian/Scripts/PlayMusic_Level01.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
